@@ -1,0 +1,72 @@
+[
+  {
+    "name": "PhotoStock",
+    "desc": "A Java project aims to create a platform that enables users to compare various phones based on features,facilitating an informed decision-making process.",
+    "image": "smartphoness",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "Envirowatch",
+    "desc": "Web frame designed to address environmental crises caused by garbage.",
+    "image": "oversight",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/ahirerohan"
+    }
+  },
+  {
+    "name": "Weather Prediction System",
+    "desc": "Developed a weather prediction system in Python, using APIs to provide real-time weather data for global cities.",
+    "image": "blogs",
+    "category": "mern",
+    "links": {
+
+      "code": "https://github.com/ahirerohan"
+    }
+  },
+  {
+    "name": "Online Shopping Sytem",
+    "desc": "A Java project aims to create a platform that enables users to shop various product using this application",
+    "image": "IMG_78809",
+    "category": "mern",
+    "links": {
+
+      "code": "https://github.com/ahirerohan"
+    }
+  },
+  {
+    "name": "PhotoStock",
+    "desc": "Photostock empowers photographers and digital artists and high-quality visual repository for businesses to enhance project efficiency.",
+    "image": "mobile",
+    "category": "mern",
+    "links": {
+      
+      "code": "https://github.com/ahirerohan"
+    }
+  },
+  {
+    "name": "Predicting Stock",
+    "desc": "Stock price predicting involves forecasting future stock prices, financial analysis, market trends.The goal is to guide investment decisions,using Streamlit & ML",
+    "image": "stock",
+    "category": "lamp",
+    "links": {
+      
+      "code": "https://github.com/ahirerohan"
+    }
+  },
+
+  {
+    "name": "Charitable Organization Trust",
+    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
+    "image": "charity-1",
+    "category": "mern",
+    "links": {
+      
+      "code": "https://github.com/ahirerohan"
+    }
+  }
+]
